@@ -14,9 +14,7 @@ import okhttp3.MultipartBody;
 import okhttp3.RequestBody;
 import okhttp3.ResponseBody;
 
-/**
- * Created by Paulina Sadowska on 09.12.2017.
- */
+
 
 public class FileUploaderModel implements FileUploaderContract.Model {
 
